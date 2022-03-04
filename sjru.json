@@ -1,0 +1,802 @@
+[{
+  "_id": {
+    "$oid": "6221c1c229223d7bd456a740"
+  },
+  "name": "Senior Fullstack разработчик (Node.js, Python, GO, React)",
+  "url": "https://russia.superjob.ru/vakansii/senior-fullstack-razrabotchik-41872186.html",
+  "min": 200000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c329223d7bd456a745"
+  },
+  "name": "Python developer",
+  "url": "https://russia.superjob.ru/vakansii/python-developer-41867837.html",
+  "min": null,
+  "max": 150000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c329223d7bd456a747"
+  },
+  "name": "Python-разработчик (Middle)",
+  "url": "https://russia.superjob.ru/vakansii/python-razrabotchik-41719454.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c329223d7bd456a748"
+  },
+  "name": "Python-разработчик",
+  "url": "https://russia.superjob.ru/vakansii/python-razrabotchik-41728471.html",
+  "min": 50000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c329223d7bd456a74a"
+  },
+  "name": "Разработчик (Python/C++)",
+  "url": "https://russia.superjob.ru/vakansii/razrabotchik-41625868.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c329223d7bd456a74c"
+  },
+  "name": "Middle Python-разработчика",
+  "url": "https://russia.superjob.ru/vakansii/middle-python-razrabotchika-41737450.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c329223d7bd456a750"
+  },
+  "name": "Разработчик Python",
+  "url": "https://russia.superjob.ru/vakansii/razrabotchik-python-41861769.html",
+  "min": 65000,
+  "max": 80000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c429223d7bd456a757"
+  },
+  "name": "Программист Python",
+  "url": "https://russia.superjob.ru/vakansii/programmist-python-41737882.html",
+  "min": 120000,
+  "max": 150000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c429223d7bd456a758"
+  },
+  "name": "Senior Python Backend Developer / Web-разработчик",
+  "url": "https://russia.superjob.ru/vakansii/senior-python-backend-developer-40866744.html",
+  "min": 230000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c429223d7bd456a75a"
+  },
+  "name": "Middle Python Developer",
+  "url": "https://russia.superjob.ru/vakansii/middle-python-developer-41760953.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c429223d7bd456a75f"
+  },
+  "name": "Middle Python Developer",
+  "url": "https://russia.superjob.ru/vakansii/middle-python-developer-41657041.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c429223d7bd456a762"
+  },
+  "name": "Разработчик Junior Developer C# Python",
+  "url": "https://russia.superjob.ru/vakansii/razrabotchik-junior-developer-c-41748194.html",
+  "min": null,
+  "max": 50000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c529223d7bd456a763"
+  },
+  "name": "Backend-разработчик Python",
+  "url": "https://russia.superjob.ru/vakansii/backend-razrabotchik-python-41893761.html",
+  "min": 40000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c529223d7bd456a767"
+  },
+  "name": "Middle Python web-developer",
+  "url": "https://russia.superjob.ru/vakansii/middle-python-web-developer-41544724.html",
+  "min": 80000,
+  "max": 120000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c529223d7bd456a76a"
+  },
+  "name": "Разработчик Python Middle",
+  "url": "https://russia.superjob.ru/vakansii/razrabotchik-python-middle-41664563.html",
+  "min": 130000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c529223d7bd456a76f"
+  },
+  "name": "Программист Python",
+  "url": "https://russia.superjob.ru/vakansii/programmist-python-41898956.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c529223d7bd456a770"
+  },
+  "name": "Разработчик Python",
+  "url": "https://russia.superjob.ru/vakansii/razrabotchik-python-41696139.html",
+  "min": 180000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c629223d7bd456a771"
+  },
+  "name": "Разработчик Ruby/Python",
+  "url": "https://russia.superjob.ru/vakansii/razrabotchik-ruby-41894160.html",
+  "min": 120000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c629223d7bd456a778"
+  },
+  "name": "Инженер-программист Python",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-programmist-python-41666318.html",
+  "min": 120000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c629223d7bd456a77c"
+  },
+  "name": "Старший аудитор (аналитик SQL / Python)",
+  "url": "https://russia.superjob.ru/vakansii/starshij-auditor-41775100.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c629223d7bd456a77d"
+  },
+  "name": "Junior Java Developer",
+  "url": "https://russia.superjob.ru/vakansii/junior-java-developer-41774441.html",
+  "min": 30000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c629223d7bd456a77e"
+  },
+  "name": "Rust Developer",
+  "url": "https://russia.superjob.ru/vakansii/rust-developer-41563874.html",
+  "min": 170000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c629223d7bd456a783"
+  },
+  "name": "Инженер-программист АСУТП",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-programmist-asutp-33562576.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c729223d7bd456a784"
+  },
+  "name": "Администратор АС / Software engineer",
+  "url": "https://russia.superjob.ru/vakansii/administrator-as-41885471.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c729223d7bd456a789"
+  },
+  "name": "Ведущий разработчик Java",
+  "url": "https://russia.superjob.ru/vakansii/veduschij-razrabotchik-java-41780942.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c729223d7bd456a78e"
+  },
+  "name": "Руководитель группы автоматизации",
+  "url": "https://russia.superjob.ru/vakansii/rukovoditel-gruppy-avtomatizacii-41781306.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a794"
+  },
+  "name": "Системный администратор Linux",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-administrator-linux-41977778.html",
+  "min": null,
+  "max": 60000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a795"
+  },
+  "name": "IT-рекрутер / Ресерчер",
+  "url": "https://russia.superjob.ru/vakansii/it-rekruter-41826061.html",
+  "min": 80000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a798"
+  },
+  "name": "Data science инженер",
+  "url": "https://russia.superjob.ru/vakansii/data-science-inzhener-41670583.html",
+  "min": 200000,
+  "max": 250000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a799"
+  },
+  "name": "Ведущий специалист АСУ ТП",
+  "url": "https://russia.superjob.ru/vakansii/veduschij-specialist-asu-tp-41868231.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a79a"
+  },
+  "name": "Специалист службы поддержки с техническими знаниями в Яндекс 360 (фронтенд)",
+  "url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-v-yandeks-360-39795755.html",
+  "min": 15000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a79e"
+  },
+  "name": "Программист DEV OPS (начальный опыт)",
+  "url": "https://russia.superjob.ru/vakansii/programmist-dev-ops-42028273.html",
+  "min": null,
+  "max": 70000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c829223d7bd456a7a2"
+  },
+  "name": "Инженер отдела разработки информационных систем",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-otdela-razrabotki-informacionnyh-sistem-42018530.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1c929223d7bd456a7a5"
+  },
+  "name": "Педагог на направление Python",
+  "url": "https://russia.superjob.ru/vakansii/pedagog-na-napravlenie-python-39392118.html",
+  "min": 20000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1c929223d7bd456a7ab"
+  },
+  "name": "Педагог по программированию",
+  "url": "https://russia.superjob.ru/vakansii/pedagog-po-programmirovaniyu-42028766.html",
+  "min": null,
+  "max": 80000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1ca29223d7bd456a7af"
+  },
+  "name": "Middle Python developer",
+  "url": "https://russia.superjob.ru/vakansii/middle-python-developer-41708825.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1ca29223d7bd456a7b1"
+  },
+  "name": "Инженер в производственный отдел",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-v-proizvodstvennyj-otdel-41716666.html",
+  "min": null,
+  "max": 37300,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1ca29223d7bd456a7b7"
+  },
+  "name": "Ведущий разработчик Python",
+  "url": "https://russia.superjob.ru/vakansii/veduschij-razrabotchik-python-41737379.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1ca29223d7bd456a7b9"
+  },
+  "name": "Python developer",
+  "url": "https://russia.superjob.ru/vakansii/python-developer-41842765.html",
+  "min": 330000,
+  "max": 370000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cb29223d7bd456a7bd"
+  },
+  "name": "Программист Python",
+  "url": "https://russia.superjob.ru/vakansii/programmist-python-41666425.html",
+  "min": 120000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cc29223d7bd456a7c9"
+  },
+  "name": "Программист",
+  "url": "https://russia.superjob.ru/vakansii/programmist-36989456.html",
+  "min": 60000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cc29223d7bd456a7d0"
+  },
+  "name": "Аналитик BI",
+  "url": "https://russia.superjob.ru/vakansii/analitik-bi-40803669.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7d1"
+  },
+  "name": "Системный администратор (Windows Linux)",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-administrator-41897747.html",
+  "min": null,
+  "max": 120000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7d5"
+  },
+  "name": "Педагог дополнительного образования (IT)",
+  "url": "https://russia.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-31825314.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7d8"
+  },
+  "name": "Системный администратор",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-administrator-38671598.html",
+  "min": 80000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7d9"
+  },
+  "name": "Ассистент главного аналитика",
+  "url": "https://russia.superjob.ru/vakansii/assistent-glavnogo-analitika-40753512.html",
+  "min": 30000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7da"
+  },
+  "name": "Программист",
+  "url": "https://russia.superjob.ru/vakansii/programmist-41906499.html",
+  "min": 50000,
+  "max": 60000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7dc"
+  },
+  "name": "Преподаватель программирования (удаленно)",
+  "url": "https://russia.superjob.ru/vakansii/prepodavatel-programmirovaniya-41558038.html",
+  "min": null,
+  "max": 80000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cd29223d7bd456a7df"
+  },
+  "name": "Программист баз данных",
+  "url": "https://russia.superjob.ru/vakansii/programmist-baz-dannyh-40509909.html",
+  "min": 48000,
+  "max": 55000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1ce29223d7bd456a7e4"
+  },
+  "name": "Программист/разработчик Битрикс24",
+  "url": "https://russia.superjob.ru/vakansii/programmist-41773417.html",
+  "min": 154000,
+  "max": 184800,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1ce29223d7bd456a7e9"
+  },
+  "name": "Специалист службы поддержки (с техническими знаниями)",
+  "url": "https://russia.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37985820.html",
+  "min": 15000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cf29223d7bd456a7ee"
+  },
+  "name": "Team Lead / Руководитель группы разработки",
+  "url": "https://russia.superjob.ru/vakansii/team-lead-40533610.html",
+  "min": null,
+  "max": 180000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cf29223d7bd456a7f3"
+  },
+  "name": "Junior Frontend web-developer",
+  "url": "https://russia.superjob.ru/vakansii/junior-frontend-web-developer-41774689.html",
+  "min": 25000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cf29223d7bd456a7f4"
+  },
+  "name": "Преподаватель на курс Программирование в системе 1С:Предприятие",
+  "url": "https://russia.superjob.ru/vakansii/prepodavatel-na-kurs-programmirovanie-v-sisteme-1s-37779814.html",
+  "min": 64000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1cf29223d7bd456a7f7"
+  },
+  "name": "Инженер 3-й линии поддержки Synapse",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-3-j-linii-podderzhki-synapse-41885424.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1cf29223d7bd456a7f8"
+  },
+  "name": "Системный администратор",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-administrator-39969772.html",
+  "min": null,
+  "max": 35000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d029223d7bd456a800"
+  },
+  "name": "QA Automation engineer",
+  "url": "https://russia.superjob.ru/vakansii/qa-automation-engineer-41781314.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d029223d7bd456a801"
+  },
+  "name": "Программист MS Dynamics AX (Axapta)",
+  "url": "https://russia.superjob.ru/vakansii/programmist-ms-dynamics-ax-40488589.html",
+  "min": 120000,
+  "max": 150000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d029223d7bd456a803"
+  },
+  "name": "Ведущий программист",
+  "url": "https://russia.superjob.ru/vakansii/veduschij-programmist-41728199.html",
+  "min": null,
+  "max": 52000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d029223d7bd456a804"
+  },
+  "name": "Системный аналитик",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-analitik-41780940.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d029223d7bd456a805"
+  },
+  "name": "Преподаватель программирования, веб-разработки",
+  "url": "https://russia.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d029223d7bd456a80d"
+  },
+  "name": "Преподаватель компьютерных курсов",
+  "url": "https://russia.superjob.ru/vakansii/prepodavatel-kompyuternyh-kursov-41647009.html",
+  "min": 52000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d129223d7bd456a80f"
+  },
+  "name": "Программист-разработчик",
+  "url": "https://russia.superjob.ru/vakansii/programmist-razrabotchik-32041070.html",
+  "min": 50000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d129223d7bd456a814"
+  },
+  "name": "Инженер IT-отдела",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-it-otdela-41569858.html",
+  "min": 150000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d129223d7bd456a815"
+  },
+  "name": "Специалист информационной безопасности",
+  "url": "https://russia.superjob.ru/vakansii/specialist-informacionnoj-bezopasnosti-40859966.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d129223d7bd456a816"
+  },
+  "name": "Системный инженер",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-inzhener-41657046.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d129223d7bd456a819"
+  },
+  "name": "Backend developer",
+  "url": "https://russia.superjob.ru/vakansii/backend-developer-41646771.html",
+  "min": 30000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d129223d7bd456a81b"
+  },
+  "name": "Инженер, научный сотрудник (электрохимия)",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-39067000.html",
+  "min": 60000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d229223d7bd456a81f"
+  },
+  "name": "Инженер-схемотехник",
+  "url": "https://russia.superjob.ru/vakansii/inzhener-shemotehnik-38000105.html",
+  "min": 60000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d229223d7bd456a822"
+  },
+  "name": "Специалист 1 разряда отдела мониторинга функционирования АИС ФНС России",
+  "url": "https://russia.superjob.ru/vakansii/specialist-1-razryada-otdela-monitoringa-funkcionirovaniya-ais-fns-rossii-38482723.html",
+  "min": 45000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d229223d7bd456a823"
+  },
+  "name": "Эксперт ИБ (расследование инцидентов, компьютерная криминалистика)",
+  "url": "https://russia.superjob.ru/vakansii/ekspert-ib-41941590.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d229223d7bd456a826"
+  },
+  "name": "BI-разработчик / Бизнес-аналитик",
+  "url": "https://russia.superjob.ru/vakansii/bi-razrabotchik-41476581.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d229223d7bd456a82c"
+  },
+  "name": "Программист-разработчик",
+  "url": "https://russia.superjob.ru/vakansii/programmist-razrabotchik-36692954.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d329223d7bd456a833"
+  },
+  "name": "Frontend разработчик / Vue.js developer",
+  "url": "https://russia.superjob.ru/vakansii/frontend-razrabotchik-41772339.html",
+  "min": null,
+  "max": 40000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d429223d7bd456a83b"
+  },
+  "name": "Руководитель группы защиты информации SIEM",
+  "url": "https://russia.superjob.ru/vakansii/rukovoditel-gruppy-zaschity-informacii-siem-41780938.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d629223d7bd456a84b"
+  },
+  "name": "Junior Data Engineer",
+  "url": "https://russia.superjob.ru/vakansii/junior-data-engineer-41737448.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d629223d7bd456a851"
+  },
+  "name": "Программист С++",
+  "url": "https://russia.superjob.ru/vakansii/programmist-s-38868226.html",
+  "min": 200000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d829223d7bd456a865"
+  },
+  "name": "Ведущий инженер (системный администратор)",
+  "url": "https://russia.superjob.ru/vakansii/veduschij-inzhener-40904249.html",
+  "min": 80000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d929223d7bd456a869"
+  },
+  "name": "Специалист IT-отдела",
+  "url": "https://russia.superjob.ru/vakansii/specialist-it-otdela-41592995.html",
+  "min": 60000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1d929223d7bd456a870"
+  },
+  "name": "Tech Lead в проект видеофиксации нарушений ПДД",
+  "url": "https://russia.superjob.ru/vakansii/tech-lead-v-proekt-videofiksacii-narushenij-pdd-41711642.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1d929223d7bd456a871"
+  },
+  "name": "Senior DevOps",
+  "url": "https://russia.superjob.ru/vakansii/senior-devops-41946451.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1da29223d7bd456a875"
+  },
+  "name": "Бизнес-аналитик",
+  "url": "https://russia.superjob.ru/vakansii/biznes-analitik-41708833.html",
+  "min": 100000,
+  "max": 150000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1da29223d7bd456a87e"
+  },
+  "name": "MLOps Инженер",
+  "url": "https://russia.superjob.ru/vakansii/mlops-inzhener-41737506.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1db29223d7bd456a880"
+  },
+  "name": "Specialist DevOps",
+  "url": "https://russia.superjob.ru/vakansii/specialist-devops-40719996.html",
+  "min": null,
+  "max": 280000,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1dc29223d7bd456a88c"
+  },
+  "name": "Программист-математик",
+  "url": "https://russia.superjob.ru/vakansii/programmist-matematik-41722630.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1de29223d7bd456a89d"
+  },
+  "name": "Data Engineer",
+  "url": "https://russia.superjob.ru/vakansii/data-engineer-41737374.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1de29223d7bd456a89e"
+  },
+  "name": "Программист",
+  "url": "https://russia.superjob.ru/vakansii/programmist-41764710.html",
+  "min": 2000,
+  "max": null,
+  "cur": "руб"
+},{
+  "_id": {
+    "$oid": "6221c1de29223d7bd456a8a3"
+  },
+  "name": "Junior ML-разработчик",
+  "url": "https://russia.superjob.ru/vakansii/junior-ml-razrabotchik-41737437.html",
+  "min": null,
+  "max": null,
+  "cur": null
+},{
+  "_id": {
+    "$oid": "6221c1de29223d7bd456a8a5"
+  },
+  "name": "Системный администратор",
+  "url": "https://russia.superjob.ru/vakansii/sistemnyj-administrator-41908252.html",
+  "min": null,
+  "max": null,
+  "cur": null
+}]
