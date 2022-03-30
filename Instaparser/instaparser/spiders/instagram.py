@@ -11,7 +11,7 @@ class InstagramSpider(scrapy.Spider):
     start_urls = ['https://www.instagram.com/']
     inst_login_link = 'https://www.instagram.com/accounts/login/ajax/'
     inst_login = 'Onliskill_udm'
-    inst_pwd = '#PWD_INSTAGRAM_BROWSER:10:1648392075:AUBQABtefr2ZVlLc0/yxBnVw9Glsofk9ShF8E2S2SL0OB4gYujOha+qIQicrECEhUWx3kG6gX+Lvhsx4jFSbN6Vnl6zyJa0jFyBEu2EyNnSNm7X01TrWW/vPC/VX5mUqFoomBIByAc5m8jIfWCdH'
+    inst_pwd = '#PWD_INSTAGRAM_BROWSER:10:1648624631:AQ5QAKwOpYwNUhB66TUxx2GrqtRLPTLICw1pufQOLbK7V8JgnK0Ios7iE0X6R/8jKw43Xv8+TJBvneEcthQTJxIFbe6Ag0IFEBEa4AGHi7LD+bDVePb+XIp/slMakEJ3BcOVYVElTYoj7z8re03+'
     parse_user = 'techskills_2022'
 
     def parse(self, response: HtmlResponse):
